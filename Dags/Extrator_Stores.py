@@ -25,7 +25,7 @@ dag = DAG(
 
 def extrator_csv():
     
-    conn = pymssql.connect(server='172.27.192.1', 
+    conn = pymssql.connect(server='000.000.0.0', 
                            user='sa', 
                            password='#sa12345678', 
                            database='AdventureWorks2019')
