@@ -4,7 +4,7 @@
 
 Recentemente, comecei a explorar o free tier da GCP para criar uma arquitetura de dados simples, eficiente e gratuita! Os principais objetivos da arquitetura foram: simplicidade, custo zero por maior tempo possível e qualidade dos dados. Acho que essa pode ser uma ótima opção para pequenas e médias empresas que ainda não têm uma estrutura de dados ou que querem evoluir nessa área e movimentam pouco volume.
 
-![Imagem do Projeto](caminho/para/imagem.jpg)
+![Imagem do Projeto](arquivos/GCP Arquitetura.jpg)
 
 ## Arquitetura
 
